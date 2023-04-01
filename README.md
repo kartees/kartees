@@ -1,5 +1,5 @@
-### Hi, I'm Karteeswaran 🧑‍💻
-
+## Hi, I'm Karteeswaran 
+#### Full Stack | DevOps
 <!--
 **kartees/kartees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
