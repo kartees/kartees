@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 #### 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://karteeswaran.netlify.app/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%239146FF.svg?logo=Twitch&logoColor=white)](https://karteeswaran.netlify.app/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kartees_nsk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karteeswaran/) 
 
 #### 💻 Tech Stack:
