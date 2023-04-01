@@ -1,6 +1,5 @@
 ## Hi, I'm Karteeswaran 
-#### Full Stack | DevOps
->"I passionately strive for perfection in everything I do."
+> "I passionately strive for perfection in everything I do."
 
 #### 💬 About Me 
 As a highly motivated and results-driven professional, I possess a strong ability to utilize my technical expertise and dynamic skill set to drive optimal profitability for organizations. With a keen eye for detail and a natural aptitude for problem-solving, I am able to identify and capitalize on opportunities for growth and development, ensuring that targets are met and exceeded.
